@@ -1,18 +1,18 @@
 Config = {}
 
-Config.Jobname = "police" -- Hier den Job eintragen.
+Config.Jobname = "police" -- enter your job here.
 
-Config.Open = "Command"  -- Command oder Key Möglich
+Config.Open = "Command"  -- "Command" or "Key" possible
 
-Config.OpenKey = nil -- nil = Deaktiviert
+Config.OpenKey = nil -- nil = deactivated
 
-Config.OpenCommand = "pcad" -- /pcad oder was auch immer da steht dann
+Config.OpenCommand = "pcad" -- /pcad like that
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Config.ClientDebug = true       -- Debug für Player Data in der Client F8 Konsole / [Triggert immer bei Login]
-Config.ClientJobDebug = false    -- Debug for Setjob Event von ESX wird angezeigt in der Client F8 Konsole / [Triggert immer bei Job Wechsel]
+Config.ClientDebug = true       -- Debug for player data in the client F8 console / [triggers everytime by login]
+Config.ClientJobDebug = false    -- Debug for the setjob event from ESX will be shown in the client F8 console / [triggers everytime by job change]
 
-Config.ServerConsoleDebug = false    -- Debug für die Server Konsole / [Triggert bei Connecten/Disconnecten]
+Config.ServerConsoleDebug = false    -- Debug for the server console / [triggers by connecting/disconnecting to the server]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
