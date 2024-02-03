@@ -10,4 +10,11 @@ anyway have fun with it.
 Link to the original script in the Fivem Forum: https://forum.cfx.re/t/police-mdt-for-google-docs-with-ui/4951527
 
 
+# Additional
+
+You need to set your own spreadsheet in the index.html.
+
+
+------------------------------------------------------------
 DONT EVER SELL IT FOR REAL MONEY PEOPLE WORK FOR THAT MONEY!
+------------------------------------------------------------
