@@ -17,4 +17,3 @@ You need to set your own spreadsheet in the index.html.
 
 ------------------------------------------------------------
 DONT EVER SELL IT FOR REAL MONEY PEOPLE WORK FOR THAT MONEY!
-------------------------------------------------------------
