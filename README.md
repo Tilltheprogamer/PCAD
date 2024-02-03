@@ -9,4 +9,5 @@ anyway have fun with it.
 
 Link to the original script in the Fivem Forum: https://forum.cfx.re/t/police-mdt-for-google-docs-with-ui/4951527
 
-DONT EVER SELL IT FOR REAL MONEY !
+
+DONT EVER SELL IT FOR REAL MONEY PEOPLE WORK FOR THAT MONEY!
