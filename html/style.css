@@ -11,9 +11,9 @@ body {
 }
 #tablet {
 	position: relative;
-	top: 25%;
-	width: 1600px;
-	height: 625px;
+	top: 10%;
+	width: 3200px;
+	height: 1600px;
 	margin: auto;
 	border: 20px black solid;
 	border-top-width: 20px;
