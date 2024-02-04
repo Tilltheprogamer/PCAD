@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Tilltheprogamer'
 description 'Police CAD on Google Docs in game!'
-version '1.0.0'
+version '1.1.1'
 
 ui_page 'html/index.html'
 
