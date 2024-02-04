@@ -1,5 +1,16 @@
 
-ESX = exports['es_extended']:getSharedObject()
+ESX = nil
+
+Citizen.CreateThread(function()
+	if Config.NewESX then
+	    ESX = exports["es_extended"]:getSharedObject()
+	else
+        while ESX == nil do
+			TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
+			Citizen.Wait(1)
+		end
+	end
+end)
 
 RegisterNetEvent('esx:playerLoaded', function(player, xPlayer, isNew)
 	if Config.ServerConsoleDebug then
